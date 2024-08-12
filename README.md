@@ -1,1 +1,1 @@
-# SpringMVC_Ajax_Mybatis
+# SpringMVC_Ajax_Mybatis_board
