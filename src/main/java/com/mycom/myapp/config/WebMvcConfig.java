@@ -27,3 +27,6 @@ public class WebMvcConfig implements WebMvcConfigurer{
     
 
 }
+
+//http://localhost:8080/
+// http://localhost:8080/pages/user

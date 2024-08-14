@@ -10,9 +10,13 @@
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.12.0/build/css/themes/default.min.css"/>
 <title>Insert title here</title>
 </head>
+
+
+<!-- http://localhost:8080/pages/user -->
+
 <body>
     <div class="container">
-        <div class="mb-3 d-flex justify-content-center">
+        <div class="mb-3 mt-5 d-flex justify-content-center">
             <h1 class="display-4">삐따기 세상</h1>
         </div>
         <div class="mb-3">

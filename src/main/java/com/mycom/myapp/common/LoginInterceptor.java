@@ -19,6 +19,7 @@ public class LoginInterceptor implements HandlerInterceptor {
         if(userDto==null) {
         	System.out.println("LoginInterceptor >>>login.jsp");
         	response.sendRedirect("/pages/login");
+        	return false;
         }
 
         

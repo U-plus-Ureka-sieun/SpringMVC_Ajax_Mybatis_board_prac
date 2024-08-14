@@ -10,11 +10,9 @@
 
 	<mappers>
 		<mapper resource="mapper/user-mapper.xml"/>
-		
-		<!-- 
 		<mapper resource="mapper/auth-mapper.xml"/>
 		<mapper resource="mapper/board-mapper.xml"/>
-		 -->
+
 		 
 		 
 	</mappers>
