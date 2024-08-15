@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <div class="mb-3 mt-3 d-flex justify-content-center">
-            <h1 class="display-4">삐따기 세상</h1>
+            <h1 class="display-4">로그인</h1>
         </div>
         <div class="mb-3">
             <h2>Login</h2>
@@ -22,7 +22,7 @@
         <form novalidate>
             <div class="mb-3">
                 <label for="userEmail">Email:</label>
-                <input type="text" class="form-control" id="userEmail" placeholder="Enter email" name="userEmail" required value="dskim@dskim.com">
+                <input type="text" class="form-control" id="userEmail" placeholder="Enter email" name="userEmail" required value="tldms@gmail.com">
             </div>        
             <div class="mb-3">
                 <label for="userPassword">Password:</label>
@@ -34,6 +34,8 @@
             <a href="/pages/user" class="btn btn-primary">회원가입</a>
         </div>
     </div>
+    
+    
     
 <script>
 window.onload = function(){

@@ -12,6 +12,7 @@ public class BoardDto {
     private String content;
     private LocalDateTime regDt;
     private int readCount;
+    
     private boolean sameUser;
     
     
